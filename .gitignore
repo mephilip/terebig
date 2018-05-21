@@ -9,3 +9,4 @@ vendor
 resources/assets/config-local.json
 local-env.php
 .idea
+.htaccess
